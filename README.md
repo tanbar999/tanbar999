@@ -62,6 +62,23 @@
     </a>
 </p>
 
+<h2>💁‍♂️ Find me</h2>
+
+<div>
+    <a href="https://www.linkedin.com/in/tanisk-annpurna-0bba68165/" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=0e76a8&color=black">
+    </a>
+    <a href="https://hashnode.com/@TaniskAnnpurna" target="_blank">
+      <img src="https://img.shields.io/badge/Hashnode-FE7A16?style=for-the-badge&logo=hashnode&logoColor=ef8236&color=black">
+    </a>
+    <a href="https://dev.to/taniskannpurna" target="_blank">
+      <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"/>
+    </a>
+    <a href="https://www.showwcase.com/taniskannpurna" target="_blank">
+      <img src="https://img.shields.io/badge/Showwcase-12100E?style=for-the-badge&logo=showwcase&logoColor=white"/>
+    </a>
+  </div> 
+
 <h2>🏆 Github Stats</h2>
 
 <p align="center"> 

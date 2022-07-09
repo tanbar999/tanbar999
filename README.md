@@ -86,6 +86,8 @@
   <img  src="https://github-readme-streak-stats.herokuapp.com/?user=tanbar999&theme=dark" width="45%">
     <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanbar999&layout=compact&theme=dark&hide=css,scss,Handlebars,Makefile,Less&langs_count=10" width="40%">
 </p>
+
+![Snake animation](https://github.com/tanbar999/tanbar999/blob/output/github-contribution-grid-snake.svg)
       
 <h2>🤝 Let's stay connected!</h2>
 <a href="https://www.linkedin.com/in/tanisk-annpurna-0bba68165" target="_blank"><img src="https://i.imgur.com/kF9HMpz.png" width=40px height=40px title="source: imgur.com" /></a> &nbsp;  <a href="https://twitter.com/TaniskAnnpurna" target="_blank"><img src="https://i.imgur.com/G7yTDHP.png" width=40px height=40px title="source: imgur.com"/></a>  &nbsp;  <a href="https://dev.to/taniskannpurna" target="_blank"><img src="https://camo.githubusercontent.com/583a3488209bd62b2ee7985cd8b55a27b44c79d66a2109782d280a31976851a9/68747470733a2f2f74686570726163746963616c6465762e73332e616d617a6f6e6177732e636f6d2f692f726f3335333862793362326675706273363373722e706e67" width=50px height=40px title=""/></a>

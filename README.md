@@ -1,9 +1,9 @@
 <h2> < Hello World, I'm <a href="https://www.linkedin.com/in/tanisk-annpurna-0bba68165/" target="_blank"> Tanisk Annpurna</a> /> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30" height="30">  </h2>
     <img align='right' src="https://i.pinimg.com/originals/5b/54/39/5b543923641d0ef1df257706e19ee255.gif" width="225" height="225">
     
-- I am working as a Software Engineer at <a href="https://www.mxplayer.in/" target="_blank"> MX Player</a>, India's leading OTT Platform.
-- Currently I am working on <a href="https://github.com/spring-projects/spring-boot" target="_blank"> Spring Boot </a> Framework in the Backend team.
-- I am learning to write Smart Contract using solidity in ETHEREUM in my free time.
+- Software Engineer at <a href="https://www.mxplayer.in/" target="_blank"> MX Player</a>, India's leading OTT Platform.
+- Currently making sure that RTB Ads are served on the MX Player app.
+
 - Otherwise, I love travelling, playing games, creating games and tasting food.
 - 📩 Feel free to reach me at tanbar999@gmail.com.
  
